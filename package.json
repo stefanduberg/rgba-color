@@ -1,0 +1,22 @@
+{
+  "name": "rgba-color",
+  "version": "0.0.1",
+  "description": "",
+  "main": "rgba-color.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanduberg/rgba-color.git"
+  },
+  "author": "Stefan Duberg <stefan.duberg@sonymusic.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanduberg/rgba-color/issues"
+  },
+  "homepage": "https://github.com/stefanduberg/rgba-color#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}

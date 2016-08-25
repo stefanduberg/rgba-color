@@ -1,0 +1,8 @@
+// @flow
+
+declare module.exports: (
+  red: number,
+  green: number,
+  blue: number,
+  alpha: number,
+) => (newAlpha?: number) => string;
