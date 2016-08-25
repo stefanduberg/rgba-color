@@ -1,6 +1,8 @@
 rgba-color
 ==========
 
+[![Build Status](https://travis-ci.org/stefanduberg/rgba-color.svg?branch=master)](https://travis-ci.org/stefanduberg/rgba-color)
+
 ```js
   var rgba = require('rgba-color')
 
